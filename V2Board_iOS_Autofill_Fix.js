@@ -2,9 +2,10 @@
 // @name        V2Board iOS #/login Autofill Fix (Clean)
 // @namespace    https://staybrowser.com/
 // @version      0.1
-// @author       jo959
+// @author       jo059
 // @description 修复 v2b 框架登录页用户名/密码属性，保持 Safari 自动填充效果
-// @match       *://anyway.best/#/login*
+// @match       https://www.anyway.best/*
+// @match       https://www.ctc.run/*
 // @match       *://*/#/login*
 // @run-at      document-end
 // ==/UserScript==
